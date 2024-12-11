@@ -25,7 +25,7 @@ public class DataHolder {
         eventList.add(new Event("Event3", "description Event3", 7.25,locationList.get(2)));
         eventList.add(new Event("Event4", "description Event4", 10.00, locationList.get(3)));
         eventList.add(new Event("Event5", "description Event5", 5.30, locationList.get(4)));
-        eventList.add(new Event("Event6", "description Event6", ,locationList.get(0)));
+        eventList.add(new Event("Event6", "description Event6", 1.45,locationList.get(0)));
         eventList.add(new Event("Event7", "description Event7", 2.85, locationList.get(1)));
         eventList.add(new Event("Event8", "description Event8", 6.36, locationList.get(2)));
         eventList.add(new Event("Event9", "description Event9", 9.85, locationList.get(3)));
